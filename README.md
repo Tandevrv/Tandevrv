@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, me chamo Natan! 👋
 
-<!--
-**Tandevrv/Tandevrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas no Senac  
+💻 Curioso em aprender mais programação e tecnologia  
+🌱 Atualmente aprendendo HTML, CSS, JavaScript e Git  
+📍 Localizado em Porto Alegre, RS, Brasil
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Calculadora Simples](https://github.com/Tandevrv/mini-calculadora): Uma calculadora simples feita com HTML e JavaScript.
+
+## Contato
+
+- Email: [nrv190107@gmail.com](mailto:nrv190107@gmail.com)
+- LinkedIn: [linkedin.com/in/NatanRosaVieira](https://www.linkedin.com/in/NatanRosaVieira)
