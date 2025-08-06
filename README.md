@@ -7,9 +7,9 @@
 
 ## Projetos
 
-- [Calculadora Simples](https://github.com/Tandevrv/mini-calculadora): Uma calculadora simples feita com HTML e JavaScript.
+- [Calculadora Simples](https://github.com/Tandevrv/mini-calculadora.git): Uma calculadora simples feita com HTML e JavaScript.
 
 ## Contato
 
 - Email: [nrv190107@gmail.com](mailto:nrv190107@gmail.com)
-- LinkedIn: [linkedin.com/in/NatanRosaVieira](https://www.linkedin.com/in/NatanRosaVieira)
+- LinkedIn: [linkedin.com/in/NatanRosaVieira](https://www.linkedin.com/in/Natan-Rosa-Vieira)
